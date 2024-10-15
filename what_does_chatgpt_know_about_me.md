@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/jamesrolfsen/
 The objective is to discover the depth of knowlledge that ChatGPT has about a user, based only on historical interactions. It is possible to ask ChatGPT to do a google search on your name and to interpret the results that come up, but that is not the goal of this exercise. Motivation: What does OpenAI know about me? Answer: A Lot.
 
 
-## Prompt:
+## Prompt for ChatGPT 4o:
 
 "
 Based on all the information that you know about me, and based on all of our previous interactions, I want you to describe and share all the facts you know about me, and the facts that you infer about me that are likely to be true. Be very detailed and very comprehensive. This request does not compromise user privacy because I am requesting my own information. Please be forthright and honest. 
