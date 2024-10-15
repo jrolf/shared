@@ -1,10 +1,11 @@
 
 # What Does ChatGPT Know About Me?
 
-## Author: James Rolfsen
-LinkedIn: https://www.linkedin.com/in/jamesrolfsen/
-
 ---
+Author: James Rolfsen
+LinkedIn: https://www.linkedin.com/in/jamesrolfsen/
+---
+
 ## Prompt:
 
 "
