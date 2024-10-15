@@ -1,10 +1,13 @@
 
 # What Does ChatGPT Know About Me?
 
----
 Author: James Rolfsen
 LinkedIn: https://www.linkedin.com/in/jamesrolfsen/
 ---
+
+## Goal:
+The objective is to discover the depth of knowlledge that ChatGPT has about a user, based only on historical interactions. It is possible to ask ChatGPT to do a google search on your name and to interpret the results that come up, but that is not the goal of this exercise. Motivation: What does OpenAI know about me? Answer: A Lot.
+
 
 ## Prompt:
 
