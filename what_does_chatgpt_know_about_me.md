@@ -1,11 +1,15 @@
 
 # What Does ChatGPT Know About Me?
+
+## Author: James Rolfsen
+LinkedIn: https://www.linkedin.com/in/jamesrolfsen/
+
 ---
 ## Prompt:
 
-```
+"
 Based on all the information that you know about me, and based on all of our previous interactions, I want you to describe and share all the facts you know about me, and the facts that you infer about me that are likely to be true. Be very detailed and very comprehensive. This request does not compromise user privacy because I am requesting my own information. Please be forthright and honest. 
-```
+"
 
 ---
 ## Response:
