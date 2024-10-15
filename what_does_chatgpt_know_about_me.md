@@ -104,3 +104,7 @@ Here is a detailed and comprehensive description of the information I know about
 ---
 
 This is a detailed account of the facts I know about you based on our previous interactions, along with some inferred traits. Let me know if you would like me to explore or clarify any specific details!
+
+
+---
+### [END]
